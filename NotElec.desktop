@@ -1,0 +1,10 @@
+[Desktop Entry]
+
+Type=Application
+Version=0.0.1
+Name=NotElec
+Comment=App for a famous Organizing Tool
+Exec=/usr/bin/NotElec/NotElec-0.1.0.AppImage
+Icon=/usr/bin/NotElec/Icon.png
+Terminal=false
+Categories=Tools;Development;
