@@ -10,9 +10,9 @@ Electron-App for a famous Organizing Tool
 # Installation
 
 - Navigate to the 'NotionElectron-master' folder
-	- run '''chmod +x Install.sh && ./Install.sh'''
+	- run `chmod +x Install.sh && ./Install.sh`
 
 # Uninstallation
 
 - Navigate to the 'NotionElectron-master' folder
-	- run '''chmod +x Uninstall.sh && ./Uninstall.sh'''
+	- run `chmod +x Uninstall.sh && ./Uninstall.sh`
