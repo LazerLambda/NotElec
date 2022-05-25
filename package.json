@@ -19,6 +19,6 @@
         "electron-builder": "^22.3.2"
     },
     "dependencies": {
-        "asar": "^2.1.0"
+        "asar": "^3.1.0"
     }
 }
