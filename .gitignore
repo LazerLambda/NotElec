@@ -1,2 +1,9 @@
+# Node
 node_modules
+
+# Build
 dist
+
+# Logo
+*.png
+*.jpg
