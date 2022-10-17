@@ -1,6 +1,6 @@
 # Notion Electron Wrapper
 
-Unofficial [Notion](www.notion.so/) electron-app for Ubuntu.
+Unofficial [Notion](www.notion.so/) electron-app for Ubuntu and Manjaro
 
 # Requirements
 - node.js
@@ -19,4 +19,4 @@ Unofficial [Notion](www.notion.so/) electron-app for Ubuntu.
 - Navigate to the 'NotionElectron-master' folder
 	- run `chmod +x Uninstall.sh && ./Uninstall.sh`
 
-*Tested for Ubuntu 22.*
+*Tested for Ubuntu 22 and Manjaro 21.3*
